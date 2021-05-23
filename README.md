@@ -4,7 +4,7 @@ In the Directory `<repo>/stl/` you will find several .stl for 3d self-printing
 Trays for COVID-19 Vaccine Vials from the different Vendors.
 
 
-## BioNtech Comirnaty
+## BioNTech Comirnaty
 
 
 ![BioNTech Comirnaty](img/vial_tray_comirnaty_10.png)<p>
@@ -21,7 +21,7 @@ Print Settings:
 ## AstraZeneca Vaxzervia
 
 
-![AstraZeneca Vaxzervia](img/vial_tray_vaxzevria_10.png)<p>
+![AstraZeneca Vaxzevria](img/vial_tray_vaxzevria_10.png)<p>
 [Tray of 10 Vials vial\_tray\_vaxzevria\_10.stl](stl/vial_tray_vaxzevria_10.stl)<p>
 
 Print Settings: 
